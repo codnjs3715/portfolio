@@ -1,0 +1,15 @@
+@charset "utf-8";
+html{ font-size: 100%;}
+*{margin: 0; padding: 0;}
+ol,ul{list-style: none;}
+a:link, a:visited, a:hover, a:active{color: #000; text-decoration: none;}
+body{font-size: 100%; color: #000; font-family: 'Noto Sans KR ', sans-serif;line-height: 1;  }
+
+
+
+#main_bg{margin: 0 auto;background: #3366FF;}
+#main_bg img{width: 100%;}
+
+
+
+
